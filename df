@@ -1,0 +1,37 @@
+[33mcommit aca85adf18f717552b3baf9612c3d37967d3631e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: shankar <sbk2k16@gmail.com>
+Date:   Wed Feb 6 12:14:32 2019 +0530
+
+    changed
+
+ demo.txt   | 1 [32m+[m
+ steps.docx | 0
+ 2 files changed, 1 insertion(+)
+
+[33mcommit 6735b90caf687ac3049f69f88bc2083867064041[m
+Author: shankar <sbk2k16@gmail.com>
+Date:   Wed Feb 6 11:19:11 2019 +0530
+
+    modified testfile
+
+ demo.txt     | 0
+ testfile.txt | 1 [32m+[m
+ 2 files changed, 1 insertion(+)
+
+[33mcommit e2a0f674b55b1ec6b2f09dc7caa48430cdd2a0fb[m
+Author: shankar <sbk2k16@gmail.com>
+Date:   Wed Feb 6 10:53:04 2019 +0530
+
+    added new testfile
+
+ testfile.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 891402c52b7e2b3677361fa85306953e2264cfc5[m
+Author: shankar <sbk2k16@gmail.com>
+Date:   Tue Feb 5 10:50:03 2019 +0530
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
